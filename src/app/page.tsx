@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Todos from "./pages/todo";
 
 export default function Home() {
